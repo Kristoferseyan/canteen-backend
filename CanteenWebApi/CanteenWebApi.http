@@ -1,0 +1,6 @@
+@CanteenWebApi_HostAddress = http://localhost:5001
+
+GET {{CanteenWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

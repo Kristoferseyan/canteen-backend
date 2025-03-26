@@ -1,0 +1,15 @@
+/Users/seannuevo/ASP.NET/CanteenWebApi/CanteenWebApiLibrary/bin/Debug/net8.0/CanteenWebApiLibrary.deps.json
+/Users/seannuevo/ASP.NET/CanteenWebApi/CanteenWebApiLibrary/bin/Debug/net8.0/CanteenWebApiLibrary.runtimeconfig.json
+/Users/seannuevo/ASP.NET/CanteenWebApi/CanteenWebApiLibrary/bin/Debug/net8.0/CanteenWebApiLibrary.dll
+/Users/seannuevo/ASP.NET/CanteenWebApi/CanteenWebApiLibrary/bin/Debug/net8.0/CanteenWebApiLibrary.pdb
+/Users/seannuevo/ASP.NET/CanteenWebApi/CanteenWebApiLibrary/obj/Debug/net8.0/CanteenWebApiLibrary.csproj.AssemblyReference.cache
+/Users/seannuevo/ASP.NET/CanteenWebApi/CanteenWebApiLibrary/obj/Debug/net8.0/CanteenWebApiLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seannuevo/ASP.NET/CanteenWebApi/CanteenWebApiLibrary/obj/Debug/net8.0/CanteenWebApiLibrary.AssemblyInfoInputs.cache
+/Users/seannuevo/ASP.NET/CanteenWebApi/CanteenWebApiLibrary/obj/Debug/net8.0/CanteenWebApiLibrary.AssemblyInfo.cs
+/Users/seannuevo/ASP.NET/CanteenWebApi/CanteenWebApiLibrary/obj/Debug/net8.0/CanteenWebApiLibrary.csproj.CoreCompileInputs.cache
+/Users/seannuevo/ASP.NET/CanteenWebApi/CanteenWebApiLibrary/obj/Debug/net8.0/CanteenWebApiLibrary.sourcelink.json
+/Users/seannuevo/ASP.NET/CanteenWebApi/CanteenWebApiLibrary/obj/Debug/net8.0/CanteenWebApiLibrary.dll
+/Users/seannuevo/ASP.NET/CanteenWebApi/CanteenWebApiLibrary/obj/Debug/net8.0/refint/CanteenWebApiLibrary.dll
+/Users/seannuevo/ASP.NET/CanteenWebApi/CanteenWebApiLibrary/obj/Debug/net8.0/CanteenWebApiLibrary.pdb
+/Users/seannuevo/ASP.NET/CanteenWebApi/CanteenWebApiLibrary/obj/Debug/net8.0/CanteenWebApiLibrary.genruntimeconfig.cache
+/Users/seannuevo/ASP.NET/CanteenWebApi/CanteenWebApiLibrary/obj/Debug/net8.0/ref/CanteenWebApiLibrary.dll
